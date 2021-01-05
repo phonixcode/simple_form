@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Simple Form Demo</string>
+    <string name="at_least_one_symbol">At least one symbol</string>
+    <string name="register">Register</string>
+    <string name="at_least_one_number">At least one number</string>
+    <string name="at_least_one_uppercase">at least one uppercase</string>
+    <string name="at_least_8_character">At least 8 character</string>
+    <string name="password_should_be">Password should be</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_username">Enter Username</string>
+</resources>
